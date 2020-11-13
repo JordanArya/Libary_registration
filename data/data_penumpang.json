@@ -1,0 +1,29 @@
+{
+	 "20200611-G0001" : {
+	"booking_code " : "KFG4",
+	"pessenger" : {
+		"title" : "Mr",
+		"front_name" : "Udin",
+		"last_name" : "in"
+	},
+	"origin" : {
+		"city" : "jakarta",
+		"airport" : "CGK"
+	},
+	"destination" : {
+		"city" : "palembang",
+		"airport" : "PLM"
+	},
+	"time" : {
+		"check_in" : "10.30",
+		"boarding" : "11.35",
+		"arrival" : "12.20"
+	},
+	"terminal" : "3",
+	"gate" : "G",
+	"airline" : "Garuda Indonesia",
+	"seat" : "12A",
+	"class" : "Economy",
+	"baggage" : 10
+	}
+}
